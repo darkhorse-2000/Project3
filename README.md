@@ -1,2 +1,2 @@
 # Project3
-Stopwatch using Python tkinter
+Stopwatch Project using Python tkinter
